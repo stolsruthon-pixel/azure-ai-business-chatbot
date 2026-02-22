@@ -34,3 +34,4 @@ The chatbot uses system instructions to simulate a real business assistant.
 ## 👨‍💻 Author
 Your Name
 Junior Azure AI Engineer
+RUTHON STOLS
